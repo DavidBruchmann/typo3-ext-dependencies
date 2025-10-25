@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2">
+  <file source-language="en" datatype="plaintext" original="messages" target-language="en">
+    <header/>
+    <body>
+      <trans-unit id="module.title" xml:space="preserve">
+        <source>Dependency Overview</source>
+        <target>Dependency Overview</target>
+      </trans-unit>
+      <trans-unit id="module.description" xml:space="preserve">
+        <source>Analyze and display Composer, npm and Solr dependencies, including version, category, and tags.</source>
+        <target>Analyze and display Composer, npm and Solr dependencies, including version, category, and tags.</target>
+      </trans-unit>
+      <trans-unit id="label.manager" xml:space="preserve">
+        <source>Manager</source>
+        <target>Manager</target>
+      </trans-unit>
+      <trans-unit id="label.depth" xml:space="preserve">
+        <source>Depth</source>
+        <target>Depth</target>
+      </trans-unit>
+      <trans-unit id="label.category" xml:space="preserve">
+        <source>Category</source>
+        <target>Category</target>
+      </trans-unit>
+      <trans-unit id="label.tag" xml:space="preserve">
+        <source>Tag</source>
+        <target>Tag</target>
+      </trans-unit>
+      <trans-unit id="label.filter" xml:space="preserve">
+        <source>Filter</source>
+        <target>Filter</target>
+      </trans-unit>
+      <trans-unit id="label.solrIndex" xml:space="preserve">
+        <source>Index in Solr</source>
+        <target>Index in Solr</target>
+      </trans-unit>
+      <trans-unit id="label.solrSearch" xml:space="preserve">
+        <source>Search Solr</source>
+        <target>Search Solr</target>
+      </trans-unit>
+      <trans-unit id="label.requiredVersion" xml:space="preserve">
+        <source>Required Version</source>
+        <target>Required Version</target>
+      </trans-unit>
+      <trans-unit id="label.installedVersion" xml:space="preserve">
+        <source>Installed Version</source>
+        <target>Installed Version</target>
+      </trans-unit>
+      <trans-unit id="label.latestVersion" xml:space="preserve">
+        <source>Latest Version</source>
+        <target>Latest Version</target>
+      </trans-unit>
+      <trans-unit id="label.subdependencies" xml:space="preserve">
+        <source>Subdependencies</source>
+        <target>Subdependencies</target>
+      </trans-unit>
+      <trans-unit id="label.solrServer" xml:space="preserve">
+        <source>Solr Server</source>
+        <target>Solr Server</target>
+      </trans-unit>
+      <trans-unit id="label.solrExtension" xml:space="preserve">
+        <source>Solr TYPO3 Extension</source>
+        <target>Solr TYPO3 Extension</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

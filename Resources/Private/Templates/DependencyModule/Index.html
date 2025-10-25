@@ -1,0 +1,18 @@
+<f:layout name="Default" />
+
+<f:section name="main">
+    <h1>Dependency Tree</h1>
+    <form method="get">
+        <label>Manager:
+            <select name="manager">
+                <option value="composer" {f:if(condition: '{manager} == "composer"', then: 'selected')}>Composer</option>
+                <option value="npm" {f:if(condition: '{manager} == "npm"', then: 'selected')}>npm</option>
+            </select>
+        </label>
+        <label>Depth: <input type="number" name="depth" value="{depth}" min="1" /></label>
+        <label>Category: <input type="text" name="category" value="{filterCategory}" /></label>
+        <label>Tag: <input type="text" name="tag" value="{filterTag}" /></label>
+        <button type="submit">Filter</button>
+    </form>
+    <pre>{dependencies -> f:format.json()}</pre>
+</f:section>

@@ -1,0 +1,30 @@
+{
+  "categories": {
+    "typo3/cms-core": "cms-core",
+    "twig/twig": "template-engine",
+    "doctrine/dbal": "database"
+  },
+  "tags": {
+    "typo3/cms-core": ["PHP", "TYPO3", "core"],
+    "twig/twig": ["PHP", "Twig", "template"],
+    "doctrine/dbal": ["PHP", "SQL", "Doctrine"]
+  },
+  "npm_categories": {
+    "react": "frontend-framework",
+    "webpack": "build-tool",
+    "lodash": "utility"
+  },
+  "npm_tags": {
+    "react": ["JavaScript", "React", "UI"],
+    "webpack": ["JavaScript", "Webpack", "bundler"],
+    "lodash": ["JavaScript", "utility"]
+  },
+  {
+    "manager": "solr",
+    "name": "solr-server",
+    "installed": "9.4.0",
+    "latest": "9.4.1",
+    "category": "search",
+    "tags": ["Solr", "Java"]
+  }
+}

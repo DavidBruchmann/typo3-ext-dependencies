@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2">
+  <file source-language="en" datatype="plaintext" original="messages">
+    <header/>
+    <body>
+      <trans-unit id="mlang_tabs_tab" xml:space="preserve">
+        <source>Dependencies</source>
+      </trans-unit>
+      <trans-unit id="module.title" xml:space="preserve">
+        <source>Dependency Overview</source>
+      </trans-unit>
+      <trans-unit id="module.description" xml:space="preserve">
+        <source>Analyze and display Composer, npm and Solr dependencies, including version, category, and tags.</source>
+      </trans-unit>
+      <trans-unit id="label.manager" xml:space="preserve">
+        <source>Manager</source>
+      </trans-unit>
+      <trans-unit id="label.depth" xml:space="preserve">
+        <source>Depth</source>
+      </trans-unit>
+      <trans-unit id="label.category" xml:space="preserve">
+        <source>Category</source>
+      </trans-unit>
+      <trans-unit id="label.tag" xml:space="preserve">
+        <source>Tag</source>
+      </trans-unit>
+      <trans-unit id="label.filter" xml:space="preserve">
+        <source>Filter</source>
+      </trans-unit>
+      <trans-unit id="label.solrIndex" xml:space="preserve">
+        <source>Index in Solr</source>
+      </trans-unit>
+      <trans-unit id="label.solrSearch" xml:space="preserve">
+        <source>Search Solr</source>
+      </trans-unit>
+      <trans-unit id="label.requiredVersion" xml:space="preserve">
+        <source>Required Version</source>
+      </trans-unit>
+      <trans-unit id="label.installedVersion" xml:space="preserve">
+        <source>Installed Version</source>
+      </trans-unit>
+      <trans-unit id="label.latestVersion" xml:space="preserve">
+        <source>Latest Version</source>
+      </trans-unit>
+      <trans-unit id="label.subdependencies" xml:space="preserve">
+        <source>Subdependencies</source>
+      </trans-unit>
+      <trans-unit id="label.solrServer" xml:space="preserve">
+        <source>Solr Server</source>
+      </trans-unit>
+      <trans-unit id="label.solrExtension" xml:space="preserve">
+        <source>Solr TYPO3 Extension</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
